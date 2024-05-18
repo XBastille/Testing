@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "installing Gstreamer lol"
 curl -L -o gst.tar.xz https://github.com/XBastille/Testing/releases/download/Gstreamer/gst.tar.xz
-tar xf gst.tar.xz -C /data/user/0/com.antutu.ABenchMark/files/usr/glibc/bin
+tar xf gst.tar.xz -C cp /path/to/gst.tar.xz .
 echo "Installed now dance"
 rm -rf gst.tar.xz
