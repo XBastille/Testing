@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "installing Gstreamer lol"
 curl -L -o gst.tar.xz https://github.com/XBastille/Testing/releases/download/Gstreamer/gst.tar.xz
-tar xf gst.tar.xz cp /path/to/gst.tar.xz .
+tar xf gst.tar.xz 
 echo "Installed now dance"
 rm -rf gst.tar.xz
